@@ -2,11 +2,11 @@
 
 ## Purpose
 
-To practice scrapy that I recently learned. Cuz leetcode.com is the website that I play with all the time. I wanna build a project about leetcode. Features it surppose to have:
+To practice scrapy that I recently learned. Cuz leetcode.com is the where I play all the time. I wanna build a project about leetcode. Supposed features:
 
 	* Get test case of all problems from leetcode.com, able to verify user's soluiton on local env.
 
-	* When new problem released, it could automatically get its test case through simple commands.
+	* When new problem released, automatically get its test case through few line of commands
 
 
 ## APPROACH
